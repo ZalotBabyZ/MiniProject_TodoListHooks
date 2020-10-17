@@ -170,8 +170,8 @@ function TodoList() {
             </div>
 
             <p style={{ color: "#c39e93", fontSize: "0.6rem", textAlign: "left", padding: "20px" }}>
-                To add: Type at new todo list box + select due date -> Click add button <br />
-                To edit: Double click on task you want to edit -> Action -> Click Save or Double click that box area again   <br />
+                To add: Type at new todo list box + select due date -&gt; Click add button <br />
+                To edit: Double click on task you want to edit -&gt; Action -&gt; Click Save or Double click that box area again   <br />
                 Note: Fill all empty input box before "Add" or "Edit"  </p>
         </div>
 
